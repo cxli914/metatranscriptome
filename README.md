@@ -27,7 +27,7 @@ nextflow run metatranscriptome.nf --help
 ```
 ## Command line for meta-transcriptomics data analysis:
 ```
-nextflow run metatranscriptome.nf --stdin1 <reads 1> --stdin2 <reads 2> --rrna_db <rrna database> --ref <reference database> --gtf <GTF file> --kraken2_db <kraken2 databse> <Options> <Functions> ```
+nextflow run metatranscriptome.nf --stdin1 <reads 1> --stdin2 <reads 2> --rrna_db <rrna database> --ref <reference database> --gtf <GTF file> --kraken2_db <kraken2 databse> <Options> <Functions> 
 ```
 ## Parameters descriptions
 ### Required arguments
