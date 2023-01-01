@@ -47,8 +47,8 @@ nextflow run metatranscriptome.nf --stdin1 <reads 1> --stdin2 <reads 2> --rrna_d
 |--sample|Specify the prefix of output files. Default: the prefix of the name of stdin1 (exclude suffix).|
 |--outdir|Specify an output folder. Default: the results folder in the current path where the command is executed.|
 |--thread| Set the thread. Default: 40.|
-|--cache| The mode to store the process results to a local cache, see https://www.nextflow.io/docs/latest/basic.html for details. Default: "deep".|
-|--publish_mode|The publication mode of output files, see https://www.nextflow.io/docs/latest/basic.html for details. Default: "copy".|
+|--cache| The mode to store the process results to a local cache, see [nextflow document](https://www.nextflow.io/docs/latest/basic.html) for details. Default: "deep".|
+|--publish_mode|The publication mode of output files, see [nextflow document](https://www.nextflow.io/docs/latest/basic.html) for details. Default: "copy".|
 |--help|Print this help message.|
 
 ### Functions arguments
