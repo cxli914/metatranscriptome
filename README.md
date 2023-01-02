@@ -51,7 +51,7 @@ nextflow run metatranscriptome.nf --stdin1 <reads 1> --stdin2 <reads 2> --rrna_d
 |--publish_mode|The publication mode of output files, see [nextflow document](https://www.nextflow.io/docs/latest/basic.html) for details. Default: "copy".|
 |--help|Print this help message.|
 #### Functions arguments
-These parameters are built-in functions of Nextflow, they can generate some visual graphics, which or show the total time consumption of the pipeline, or show the time consumption, memory occupation, cpu usage of each process. Interested can add these parameters to observe relative information.
+These parameters are built-in functions of Nextflow, they can generate some visual graphics, which or show the total time consumption of the pipeline, or show the time consumption, memory occupation, cpu usage of each process. Interested can add these parameters to observe relative information. See [nextflow document](https://www.nextflow.io/docs/latest/basic.html) for details.
 |parameters|descriptions|
 |---|---|
 |-with-timeline|It renders a timeline.html file that records the time, memory consumption of different processes.|
