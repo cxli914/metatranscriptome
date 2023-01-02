@@ -2,7 +2,7 @@
 ## Tools required
 ```shell
 Python (>3.6)
-Nextflow (See [Nextflow document](https://www.nextflow.io/docs/latest/basic.html) for installation)
+Nextflow
 Trimmomatic
 Fastqc
 BBMap
