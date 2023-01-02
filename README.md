@@ -1,10 +1,14 @@
 # An Instruction on the Analysis of Example Meta-transcriptomics Datasets
 ## Tools required
 ```shell
-Trim
-Python
-Bowtie2 
+Python (>3.6)
+Nextflow (See [Nextflow document](https://www.nextflow.io/docs/latest/basic.html) for installation)
+Trimmomatic
+Fastqc
+BBMap
+Bowtie2
 featureCounts
+Kraken2
 ```
 ## Data preparation
 Please execute the following command in your terminal to clone the metatranscriptome repository to your own machine. 
